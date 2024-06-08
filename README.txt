@@ -1,0 +1,1 @@
+Models에는 팀원들이 만든 모든 모델들이 저장되어 있습니다. Music Face에서 사용되는 모델은 best_model.pt, swinv2_ages.pt, swinv2_gender.pt입니다. 세 모델 모두 용량이 큰 관계로 GitHub에 저장하는 대신 Models 폴더 내에 있는 파일을 다운받아서 이용해주세요.
