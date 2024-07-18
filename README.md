@@ -80,7 +80,10 @@ Music Face에서 사용되는 모델의 경우 용량이 큰 관계로 구글 �
 [Google Drive](https://drive.google.com/drive/u/0/folders/1BNF7E2JYfD7p42UU6ymU-nXpWdB1cFyD)
 
 ![image](images/cookie.png)
-
+1. Suno AI 웹 사이트 접속
+2. F12 Network 탭
+3. Filter: client?_clerk_js_version 입력
+4. Cookie 복사
 > ### Input your cookie 
 ```
 cookies='Your Cookie'
