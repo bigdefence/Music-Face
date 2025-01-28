@@ -2,11 +2,11 @@
 
 ## :alarm_clock: 개발 기간: 5월 9일(목) ~ 6월 4일(수)
 
+
+https://github.com/user-attachments/assets/f4a14d2d-afae-4104-89c2-d0171256b762
+
+
 ## 개발환경:
-
-https://github.com/user-attachments/assets/170a6dda-2019-4db0-8bb6-57b0abf08049
-
-
 |IDE|프로그래밍<br/>언어|
 |------|---|
 |![Coalb](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)|![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
